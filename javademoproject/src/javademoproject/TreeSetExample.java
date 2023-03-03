@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.Set;
 import java.util.TreeSet;
 
-public class Treeset {
+public class TreeSetExample {
 public static void main(String[] args) {
 	Set<String> str=new TreeSet<String>(new StringComparator());
 	str.add("harshit");
